@@ -1,3 +1,3 @@
-# Easy DSF
+# React App Template
 
-A platform to easily manage your digital storefronts to set you up for success!
+Starts with typescript and basic necessities.
